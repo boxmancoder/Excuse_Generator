@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  text-align: center;
+  margin-top: 200px;
+}
+
+#excuse {
+  font-size: 40px;
+  font-family: "Preahvihear", sans-serif;
+}
